@@ -51,7 +51,7 @@ Release Date: 2019-09-02
 
 ### Updated Packages
 
-
++ [swephR v0.3.0](https://stubner.me/2019/08/swephr-v0-3-0/) - Full coverage of C API and automatic UBSAN testing
 
 ###  Videos and Podcasts
 
